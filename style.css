@@ -199,7 +199,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
-  color: yellow;
+  color: rgb(237, 218, 8);;
 }
 
 #socials-container {
@@ -234,7 +234,7 @@ section {
 
 .btn-color-1,
 .btn-color-2 {
-  border: yellow 0.1rem solid;
+  border: rgb(237, 218, 8); 0.1rem solid;
 }
 
 .btn-color-1:hover,
@@ -244,12 +244,12 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: yellow;
+  background: rgb(237, 218, 8);;
   color: black;
 }
 
 .btn-color-1:hover {
-  background: yellow;
+  background: rgb(237, 218, 8);;
 }
 
 .btn-color-2 {
@@ -310,7 +310,7 @@ section {
   /* border-color: rgb(163, 163, 163); */
   border-color: rgb(239, 237, 237);
   text-align: center;
-  color: yellow;
+  color: rgb(237, 218, 8);;
 }
 
 .details-container1 {
@@ -322,7 +322,7 @@ section {
   border-color: rgb(163, 163, 163);
   /* border-color: rgb(239, 237, 237); */
   text-align: center;
-  /* color: yellow; */
+  /* color: rgb(237, 218, 8);; */
   /* border-color: rgb(17, 17, 17); */
 }
 
